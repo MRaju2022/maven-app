@@ -18,5 +18,8 @@ public class App
 
         System.out.println("Hello AWS");
 
+        // Chenges for git fetch
+
+        System.out.println("git fetch");
     }
 }
