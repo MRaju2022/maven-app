@@ -17,5 +17,9 @@ public class App
        //Changes related to 1002 task
 
         System.out.println("Hello AWS");
+
+	// This changes to represent branching concept
+
+	System.out.println("Git branching");
     }
 }
